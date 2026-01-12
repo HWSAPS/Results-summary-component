@@ -29,8 +29,8 @@ display: flex;
 justify-self: center;
 align-items: center;
 margin: auto;
-width: 95vh;
-height: 65vh;
+width: 600px;
+height: 450px;
 border-radius: 25px;
 background-color: hsl(0, 0%, 100%);
 }
